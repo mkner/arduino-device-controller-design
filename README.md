@@ -3,7 +3,7 @@
 These projects are based on the course 
 Building robots and othe devices with Arduino board 
 (МФТИ - Строим роботов и другие устройства на Arduino)
-that is available onlinefrom the Moscow Physics and Technical Instutute.
+that is available online from the Moscow Physics and Technical Instutute.
 
 The course provides lectures but minimal or missing documentation, diagrams, schematics,
 spec sheets. So the major challange was to create the projects from scratch based on 
