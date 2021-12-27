@@ -2,8 +2,9 @@
 
 These projects are based on the course 
 Building robots and other devices with Arduino 
-(МФТИ - Строим роботов и другие устройства на Arduino)
+(Строим роботов и другие устройства на Arduino)
 that is available online from the Moscow Physics and Technical Instutute
+(МФТИ - Московский физико-технический институт)
 
 
 The course provides lectures but minimal or missing documentation, diagrams, schematics,
