@@ -17,7 +17,7 @@ jetisoned for a more ideal solution with the actual physical layout, wiring, tes
 the components that would be the best fit for the ones utilized in the projects as presented in the
 lectures.
 
-What a great example of what is not unusual in real world engineering in industry.
+What a great example of what is not unusual in real world engineering in industry. 
 
 The software is basically coded up from scratch to match the ad hoc nature of assembly and 
 testing of the projects. The main control loop for the various devices and their interactions is in C++
