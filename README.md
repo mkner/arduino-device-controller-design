@@ -7,7 +7,7 @@ that is available online from the Moscow Physics and Technical Instutute
 (МФТИ - Московский физико-технический институт)
 
 
-The course provides lectures but minimal or missing documentation, diagrams, schematics,
+The course provides engaging and often brilliant lectures but minimal or missing documentation, diagrams, schematics,
 spec sheets. So the major challange was to create the projects from scratch based on 
 the general presentation in the lectures. Part lists had to be put together, the parts ordered
 and finding the best equivalents to the Troyka modules that were highlighted in the course 
