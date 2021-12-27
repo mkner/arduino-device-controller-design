@@ -6,7 +6,7 @@
  * mike knerr
  * 
  * project for course:
- * MPIT - Building Arduino Robots and Devices
+ * MPTI- Building Arduino Robots and Devices
  * МФТИ - Строим роботов и другие устройства на Arduino
  * 
  * simulate traffic light (typical russian type)- Светофоры в России 
