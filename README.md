@@ -20,6 +20,8 @@ The software is basically coded up from scratch to match the ad hoc nature of as
 testing of the projects. The main control loop for the various devices and their interactions is in C++
 and utilizes libraries specific to the Arduinio boards.
 
-The eventual goal is to build a custom differential drive autonomous robot.
+This is an ongoing project and the eventual goal is to build a custom differential drive autonomous robot
+to implement and use as a test-bed for the software engineering side for autonomous vehicle and robotic
+systems that I have done a lot of work with over the last several years.
 
 
