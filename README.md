@@ -12,7 +12,8 @@ the general presentation in the lectures. Part lists had to be put together, the
 and finding the best equivalents to the Troyka modules that were highlighted in the course 
 that are not readily available. And schematics and board layouts put had to be put together and then
 jetisoned for a more ideal solution with the actual physical layout, wiring, testing for 
-the components in the projects.
+the components that would be the best fit for the ones utilized in the projects as presented in the
+lectures.
 
 What a great example of what is not unusual in real world engineering in industry.
 
