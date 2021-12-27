@@ -8,7 +8,7 @@ that is available online from the Moscow Physics and Technical Instutute
 
 
 The course provides engaging and often brilliant lectures but minimal or missing documentation, diagrams, schematics,
-spec sheets, etc. So the major challange was to create the projects from scratch based on 
+spec sheets, etc. So the major challange was to create the projects from practically from ground up based on 
 the general presentation in the lectures. Part lists had to be put together, the parts ordered
 and finding the best equivalents to the Troyka modules that were highlighted in the course 
 that are not readily available. And schematics and board layouts put had to be put together and then
