@@ -8,7 +8,7 @@ that is available online from the Moscow Physics and Technical Instutute
 
 
 The course provides engaging and often brilliant lectures but minimal or missing documentation, diagrams, schematics,
-spec sheets, etc. So the major challange was to create the projects from practically from ground up based on 
+spec sheets, etc. So the challange was to create the projects basically from ground up based on 
 the general presentations in the lectures. Part lists had to be put together, the parts ordered, sorted, catagorized, and tested
 and spec sheets for the components located. 
 This included finding the best equivalents to the Amperka Troyka boards and modules that were highlighted in the course 
