@@ -7,4 +7,4 @@
   3) countdown 3,2,1,0
   4) run through segments sequentially & repeatedly
   
-  Note: pins set for common anode type
+  Note: pins set for common anode type (not common cathode)
