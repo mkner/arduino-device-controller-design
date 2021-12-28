@@ -1,4 +1,4 @@
-An optical-thereminvox similar to thethe original analog RF type</br>
+An optical-thereminvox similar to the original analog RF type</br>
 but the buzzer tone varies directly with the reading from light sensor (photoresistor)
 
 
