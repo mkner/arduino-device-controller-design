@@ -9,7 +9,7 @@
   
   Note: pins set for common anode type (not common cathode)
 
-  Also see the short video in the project directory
+  There is also a short video of the project in operation in this directory
   
 <p align="center">
   <img src="seg7test.jpg" width="450" alt="board layout">
