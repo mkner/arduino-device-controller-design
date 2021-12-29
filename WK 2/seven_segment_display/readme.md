@@ -8,3 +8,7 @@
   4) run through segments sequentially & repeatedly
   
   Note: pins set for common anode type (not common cathode)
+
+<p align="center">
+  <img src="seg7test.jpg" width="450" alt="board layout">
+</p>
