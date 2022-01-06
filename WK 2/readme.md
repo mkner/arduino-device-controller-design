@@ -19,7 +19,7 @@ types for various applications. The functions are designed for easy and readable
 The serial monitor acts a control terminal for the system and display. It accepts
 a simple input one character at a time. There are predefined tests and other
 fun stuff. The operation is similar to talking to a modem or router that uses
-a serial I/O (input/output) to access and control its operation.
+a serial I/O to access and control its operation.
 
 Displays hex 0-F, t is test, ? is help...
 
