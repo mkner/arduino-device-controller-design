@@ -1,4 +1,4 @@
- 7 segment display 
+ ### 7 segment display 
 
   Runs a test on 7 segment digital display
   
