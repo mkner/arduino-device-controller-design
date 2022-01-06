@@ -1,6 +1,6 @@
 
 
-Seven segment display with shift register
+### Seven segment display with shift register
 
 Arduino Uno board using TI 74HC595 shift register to interface to 7 segment display. 
 This is a common anode display unit and not the usual common cathode. The  decimal point is on 74HC pin Q0.
