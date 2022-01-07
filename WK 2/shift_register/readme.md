@@ -26,3 +26,5 @@ Displays hex 0-F, t is test, ? is help...
 <p align="center">
   <img src="console.png" width="450" alt="serial terminal">
 </p>
+
+![up](hexcountup.jpg)
