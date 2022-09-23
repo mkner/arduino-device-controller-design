@@ -5,7 +5,7 @@
 Arduino UNO board using TI 74HC595 shift register to interface to 7 segment display. 
 This is a common anode display unit and not the usual common cathode. The  decimal point is on 74HC pin Q0.
 The wiring is designed to be as logical, symmetric, and uncluttered as possible considering the complicated
-mappings with the pinouts from the UNO to the TI-74HC and then to the 7 segment on the prototyping board.
+mappings with the pinouts from the UNO to the TI-74HC and then to the 7 segment display on the prototyping board.
 
 The program uses bit patterns are defined for common cathode
 then mapped for common anode display so it is easy to switch between segment display
