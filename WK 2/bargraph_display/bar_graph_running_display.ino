@@ -1,10 +1,9 @@
 /*
   Test 10 segment LED bar graph display unit
-
-  -Mike Knerr
-  
   Produces a running display on an LED bar graph
-
+  
+  (c) 2021 Mike Knerr
+  
 */
 
 #define LED_10 11
