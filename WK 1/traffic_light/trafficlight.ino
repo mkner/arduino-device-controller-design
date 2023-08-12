@@ -3,7 +3,7 @@
  * светофор (в России)
  * v0.03
  * 
- * mike knerr
+ * (c) 2021-2022 mike knerr
  * 
  * project for:
  * MPIT - Building Arduino Robots and Devices
